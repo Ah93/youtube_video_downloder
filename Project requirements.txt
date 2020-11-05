@@ -1,0 +1,6 @@
+Requirements for this program
+*******************************
+
+1- Make sure you have on of these Python versions3.6/3.7/3.8 in order this to work fine
+
+2- nstall latest Pytube from this link: https:https: //python-pytube.readthedocs.io/en/latest/user/install.html
